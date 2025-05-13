@@ -15,7 +15,7 @@ public class Principal {
             System.out.println("5. Convertir de Euro a Peso Chileno");
             System.out.println("6. Convertir de Peso Chileno a Euro");
             System.out.println("0. Salir");
-            System.out.print("Seleccione una opción: ");
+            System.out.print("Seleccione una opción de las anteriores: ");
             option = scanner.nextInt();
 
             switch (option) {

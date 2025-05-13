@@ -4,4 +4,3 @@ public class ExchangeRateResponse {
     public String result;
     public Map<String, Double> conversion_rates;
 }
-##### MENSAJE DE PRUEBA #####
